@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bohdana Usenko</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdana18&label=Profile%20views&color=0e75b6&style=flat" alt="bogdana18" /> </p>
 
 - 📫 How to reach me **u.bohdanaaaaa@gmail.com**
 
